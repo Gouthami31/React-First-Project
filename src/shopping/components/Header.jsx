@@ -5,7 +5,7 @@ const Header = () => {
     <div className='header'>
       <div className="left">
          <div className="title">
-            <h1>Shooping</h1>
+            <h1>Shopping</h1>
         </div> 
       </div>
       <div className="center">
@@ -21,7 +21,7 @@ const Header = () => {
       </div>
       <div className="right">
         <div className="signin">
-            Signin/Signup
+            Signin / Signup
         </div>
         <div className="cart">
             cart
